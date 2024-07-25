@@ -1,0 +1,10 @@
+plaintext
+torch
+torchvision
+torchaudio
+numpy
+scipy
+pandas
+matplotlib
+requests
+python-dotenv
